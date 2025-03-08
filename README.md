@@ -1,3 +1,3 @@
 # Basic-
-This for practice purpose only.
-In this basic problem Solving project.
+This for practice purpose only
+and basic problem Solving question
