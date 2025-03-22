@@ -1,3 +1,4 @@
+// First Approach 
 /*import java.util.*;
 class Swap{
     public static void main(String[] args) {
@@ -13,6 +14,7 @@ class Swap{
     }
 }*/
 
+//Second Approach 
 /*class Swap{
     public static void main(String[] args) {
         int a = 22;
@@ -30,6 +32,7 @@ class Swap{
     }
 }*/
 
+//  Third Approach 
 /*class Swap {
     public static void main(String[] args) {
         int a = 22;
@@ -47,6 +50,7 @@ class Swap{
     }
 }*/
 
+// fouth Approach 
 class Swap{
     public static void main(String[] args) {
         int a = 11;
